@@ -7,3 +7,4 @@
 * https://rust-kr.org
 * https://hanbum.gitbooks.io/rustbyexample/content/
 * https://godot-rust.github.io/
+  * https://godot-rust.github.io/book/index.html
